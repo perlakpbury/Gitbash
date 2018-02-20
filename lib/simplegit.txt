@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+
+
+int main()
+
+{
+
+printf("featureA");
+
+
+
+return 0;
+
+}

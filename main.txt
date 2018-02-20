@@ -9,6 +9,6 @@ return 0;
 
 int fixbug_12345()
 {
-
+printf("dodane");
 return 0;
 }
